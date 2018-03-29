@@ -34,4 +34,4 @@ We'll work with each group member depending on which items above need contributi
 **Tasks needed to build:** We are planning to rent a VPS or similar server to host and install the MediaWiki. We'll run this on a Linux server.
 
 
-**Protocols being used:** We'll be using TCP/IP and HTTP/HTTPS as our first options and will likely add more as we discover them.
+**Protocols being used:** We'll be using TCP/IP and HTTP(port 80)/HTTPS(port 443) as our first options and will likely add more as we discover them.

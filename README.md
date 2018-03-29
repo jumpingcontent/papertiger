@@ -9,9 +9,11 @@ Here is the team report for our group MediaWiki for school!
 
 
 **Group roles:** Here are some roles below with a bit of info on how each person will go ahead with them.
+
 Research:
 Kasia
 For research we'll look into installation and deployment.
+
 Documentation:
 Yasir
 We'll make sure to have a good list of ports and protocols and what they do.
